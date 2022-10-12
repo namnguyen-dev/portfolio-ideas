@@ -136,6 +136,9 @@ Read about how this project started: <a href="https://eke.hashnode.dev/portfolio
 | Mike Bifulco          | ![mike-bifulco](https://user-images.githubusercontent.com/62628408/194711236-9e9cda7f-0611-4756-b237-ae122e355c75.png)                       | [mikebifulco.com](https://mikebifulco.com)                                         | [GitHub](https://github.com/mbifulco/blog)                               | NextJS, React, SCSS, MDX, Vercel                                                                  |
 | Shodipo Ayomide       | ![shodipo-ayomide](https://user-images.githubusercontent.com/62628408/194711642-0618e969-2672-4179-90ed-b5909e0bf665.png)                    | [shodipoayomide.com](https://shodipoayomide.com/)                                  | [GitHub](https://github.com/Developerayo/shodipoayomide.com)             | Gatsby, React, SCSS, Bootstrap, Jquery                                                            |
 | Damian Watracz        | ![damian](https://user-images.githubusercontent.com/62628408/194712470-98eec307-9b9c-4181-9167-2945b6362d5c.png)                             | [watracz.com](https://watracz.com/)                                                | None                                                                     | HTML, CSS, JavaScript, Swiper                                                                     |
+| Nam Nguyen        | ![nam](https://user-images.githubusercontent.com/75936685/195281496-c9f66780-76a9-417e-bbb4-88b36ed5b50e.png)                             | [namdeveloper.netlify.app](https://namdeveloper.netlify.app)                                                | [Github](https://github.com/namnguyen-dev/portfolio-react)                                                                     | ReactJS, CSS, Netlify                                                                     |
+
+
 
 
 <!-- === ⭐ PORTFOLIO LINE END ⭐ === -->
